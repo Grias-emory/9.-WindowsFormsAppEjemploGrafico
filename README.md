@@ -1,4 +1,4 @@
-Descripción del Proyecto
+Descripción del Trabajo
 
 Este proyecto es una aplicación de escritorio desarrollada en C# utilizando Windows Forms. Está diseñada para demostrar la creación y manipulación de gráficos en una interfaz de usuario. La aplicación permite al usuario interactuar con elementos gráficos, posiblemente dibujando formas, líneas o figuras, y manipulándolas mediante eventos del mouse o del teclado. Es una herramienta educativa útil para comprender cómo se manejan los gráficos en aplicaciones de Windows Forms.
 
